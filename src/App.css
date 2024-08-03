@@ -1,3 +1,8 @@
+@font-face{
+  font-family: 'Open Sans';
+  font-style: normal;
+  src:url('./japan-4744606_1280.jpg');
+}
 #root {
   max-width: 1280px;
   margin: 0 auto;
